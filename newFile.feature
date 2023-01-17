@@ -3,3 +3,4 @@ Feature: Updating submodule
 
         Scenario: Last update
             Given this is another testing
+              And this is another one
